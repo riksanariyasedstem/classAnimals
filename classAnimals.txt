@@ -1,6 +1,4 @@
 name
 class
-gender
-location123
-456
-890
+helloooo in feature
+local committee
